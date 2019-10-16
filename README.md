@@ -12,5 +12,5 @@ This fMRI experiment template is part of the guide ["How to plan and run an fMRI
   * _Stimuli_ folder: stimulus images used by the experiment.
   
 
-The experiment itself is a visual fMRI experiment with eye-tracking. During each 34.5 second trial, an image of a face or a house appears for 9 or 15 seconds. Throughout the trial the participant should focus on a central fixation cross, which in rare occasions changes briefly from a '+' to a '|' (horizontal line disappears) - and in such cases the participant needs to press the response button. Yes, this experiment is excruciatingly boring. 
+The experiment itself is a visual fMRI experiment with eye-tracking. During each 34.5 second trial, an image of a face or a house appears for 9 or 15 seconds. Throughout the trial the participant should focus on a central fixation cross, which in rare occasions changes briefly from a '+' to a '-' (vertical line disappears) - and in such cases the participant needs to press the response button. Yes, this experiment is excruciatingly boring. 
 
